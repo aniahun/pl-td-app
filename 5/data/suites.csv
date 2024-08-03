@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 03 14:21:54 GMT 2024","Sat Aug 03 14:21:55 GMT 2024","1563","chromium","user.spec.ts","","","","should be able to register to the application",""
+"passed","Sat Aug 03 14:21:49 GMT 2024","Sat Aug 03 14:21:51 GMT 2024","2230","chromium","todo.spec.ts","","","","should be able to add ne todo",""
+"passed","Sat Aug 03 14:21:52 GMT 2024","Sat Aug 03 14:21:54 GMT 2024","1888","chromium","todo.spec.ts","","","","should be able to delete a todo",""
